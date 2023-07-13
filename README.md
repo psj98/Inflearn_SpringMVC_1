@@ -4,15 +4,15 @@
 
 ## 목적
 
-📌 Spring 공부
+:pushpin: Spring 공부
 
-📌 Spring MVC 패턴의 이해
+:pushpin: Spring MVC 패턴의 이해
 
 <br/>
 
 ## 목차
 
-📌 완료 : :white_check_mark: / 진행중 : :wavy_dash: / 미완료 : :white_large_square:
+:pushpin: 완료 : :white_check_mark: / 진행중 : :wavy_dash: / 미완료 : :white_large_square:
 
 | 완료 여부 | 챕터 | 챕터명 | 
 | :--: | :--: | :--: | 
