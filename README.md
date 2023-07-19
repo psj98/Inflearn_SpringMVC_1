@@ -21,5 +21,5 @@
 | :white_check_mark: | `Chapter 03` | [서블릿, JSP, MVC 패턴](https://occipital-wilderness-a08.notion.site/JSP-MVC-72d8a2460884495c8f51de3d6746fd57?pvs=4) | 
 | :white_check_mark: | `Chapter 04` | [MVC 프레임워크 만들기](https://occipital-wilderness-a08.notion.site/MVC-0ee8014f0c0040afae360012c7537df0?pvs=4) | 
 | :white_check_mark: | `Chapter 05` | [스프링 MVC - 구조 이해](https://occipital-wilderness-a08.notion.site/MVC-6cbb2b3bc99f4311be59c3a99ecc0a75?pvs=4) |
-| :white_large_square: | `Chapter 06` | [스프링 MVC - 기본 기능](https://occipital-wilderness-a08.notion.site/MVC-e6300efd8ad7465aaee0ca018596da5d?pvs=4) |
+| :wavy_dash: | `Chapter 06` | [스프링 MVC - 기본 기능](https://occipital-wilderness-a08.notion.site/MVC-e6300efd8ad7465aaee0ca018596da5d?pvs=4) |
 | :white_large_square: | `Chapter 07` | [스프링 MVC - 웹 페이지 만들기](https://occipital-wilderness-a08.notion.site/MVC-c7bb62e315f840bf972df96cb19927ba?pvs=4) |
